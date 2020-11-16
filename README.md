@@ -1,0 +1,1 @@
+This is Swagitarius's first git project!
